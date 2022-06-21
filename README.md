@@ -1,2 +1,6 @@
-# Graphs
-Implements a graph
+# Skills Practiced
+- Graphs
+- Breadth-First Search (BFS) Traversal
+- Depth-First Search (DFS) Traversal
+- Dijkstra's Algorithm
+- Generics
